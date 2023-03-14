@@ -29,7 +29,7 @@ Source - Sales Predictions from Kagle
 The Random Forrest Model R2 score tells us that the features used in the model together account for 56 % of the variance in the target.
 
 ## Recommendations:
-I recommend the Linear regression model the errors or the difference from the true median price vs predicted is smaller than the Decision Tree model. 
+I recommend the Linear regression model. The errors or the difference from the true median price vs predicted is smaller than the Decision Tree model. 
 ## Limitations & Next Steps
 
 ## For further information 
